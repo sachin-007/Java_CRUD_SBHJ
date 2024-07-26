@@ -1,4 +1,4 @@
-# NimapCRUD
+# CRUD
 
 ## Description
 This project is a Java-based web application that provides endpoints for managing products and categories.
@@ -11,7 +11,7 @@ This project is a Java-based web application that provides endpoints for managin
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sachin-007/NimapTask.git
+   git clone https://github.com/sachin-007/Java_CRUD_SBHJ.git
 
 
 ## Endpoints
